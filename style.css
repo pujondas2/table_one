@@ -1,0 +1,18 @@
+table {
+    width: 900px;
+    margin: 150px auto;
+    border-color: #D6D6D6;
+}
+
+thead {
+    background-color: #3497DA;
+    color: #ffffff;
+}
+
+tr {
+    text-align: center;
+}
+
+.tr_bg {
+    background-color: #EDEDED;
+}
